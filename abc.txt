@@ -1,3 +1,7 @@
 welcome.
 hello
 bye
+
+
+beans 
+carrot 
