@@ -1,4 +1,10 @@
 welcome.
 hello
 bye
+
+
+beans 
+carrot 
+all done
+
 done 
